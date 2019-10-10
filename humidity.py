@@ -1,4 +1,3 @@
-
 humidity = input("Please input humidity value: ")
 humidity = int(humidity)
 if humidity < 30:
